@@ -2,8 +2,7 @@
 
 /*
 Plugin Name: Cases 
-Plugin URI: ajra.es
-Description: Cases API plugin by AJRA
+Description: Cases API plugin
 Version: 1.1
 */
 
